@@ -1,0 +1,3 @@
+Looking in indexes: https://pypi.org/simple, https://pypi.ngc.nvidia.com
+Requirement already satisfied: jedi in /home/pmedur/strojnoUcenje/env/lib/python3.10/site-packages (0.19.1)
+Requirement already satisfied: parso<0.9.0,>=0.8.3 in /home/pmedur/strojnoUcenje/env/lib/python3.10/site-packages (from jedi) (0.8.3)
